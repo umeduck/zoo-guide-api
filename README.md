@@ -47,7 +47,7 @@
 ## 使用技術
 - **フロントエンド**：Vue.js 3 + axios
 - **バックエンド**：Ruby on Rails (APIモード)
-- **データベース**：PostgreSQL（想定）
+- **データベース**：Mysql3
 - **インフラ**：Docker（ローカル）+ AWS（本番）
 - **バージョン管理**：GitHub
 
